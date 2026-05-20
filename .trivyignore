@@ -1,0 +1,6 @@
+# .trivyignore
+# CVE exceptions with documented justification
+# Format: CVE-ID  # Reason | Date reviewed
+
+# Example (remove when not applicable):
+# CVE-2023-XXXX  # No fix available upstream; mitigated by network policy | Reviewed: 2025-08-01
